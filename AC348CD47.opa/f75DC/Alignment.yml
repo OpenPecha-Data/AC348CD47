@@ -1,0 +1,18 @@
+segment_sources:
+  IF6D0D0B1:
+    type: origin_type
+    relation: translation
+    language: sa
+  I94AADAA2:
+    type: origin_type
+    relation: translation
+    language: bo
+  IC8332A7D:
+    type: origin_type
+    relation: translation
+    language: zh
+segment_pairs:
+  f96a9dded0814c9fb99e780abd559312:
+    IF6D0D0B1: 2df61ec81516436dafae23cd71b2498c
+    I94AADAA2: 290a560365aa43f499495ffc31af93ef
+    IC8332A7D: cf1c396ba6c74ba2ae13f14b2b0c4cbf
